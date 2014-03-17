@@ -14,15 +14,25 @@ On Dart Web Programming - Exercise 1
 
 4.  In Git, create a local repository for 2.
 
+
     cd .../ex01
+    
     git init
+    
     git status
+    
     git add .
+    
     git status
+    
     git commit -m 'start ex01'
+    
     git status
+    
     git remote add origin https://github.com/...
+    
     git push -u origin master
+    
     git status
 
 from: https://docs.google.com/document/d/1XHfWdawpJtBc5C9qVhP-T6jASIlpW6wU2YLiLzIlIrs/edit
