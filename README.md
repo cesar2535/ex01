@@ -15,8 +15,7 @@ On Dart Web Programming - Exercise 1
 4.  In Git, create a local repository for 2.
 
 
-    cd .../ex01
-    
+    cd .../ex01</br>
     git init
     
     git status
